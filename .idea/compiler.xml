@@ -9,5 +9,8 @@
         <module name="sessionDemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sessionDemo" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
